@@ -1,5 +1,5 @@
 [core]
-    remote = remote
+    remote = myremote
 ['remote "myremote"']
     url = s3://kc-savchenko/dvcstore
     region = ru-central1
